@@ -1,4 +1,4 @@
-# Relacion-de-Composicion-Grupo-3
+# Relación de Composición
 
 # Grupo 3
 
