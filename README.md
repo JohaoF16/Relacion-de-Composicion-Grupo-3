@@ -1,8 +1,15 @@
 # Relacion-de-Composicion-Grupo-3
-Resolución del Laboratorio 4
-Integrantes:
+
+# Grupo 3
+
+# Integrantes:  
+
 -José Andrango
+
 -Dilan Chalán
--Johao Flores
--Brayam Guanoliquin
+
+-Johao Flores 
+
+-Brayam Guanoliquin 
+
 -Jordan Quishpi
